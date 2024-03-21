@@ -15,11 +15,11 @@ As a data analyst working on the marketing analyst team at Cyclistic, a bike-sha
 
 | Documentation | Steps
 |----------|------------|
-| [1. Ask](page1.md) | Objective
-| [2. Prepare](page1.md) | Data gathering
-| [3. Process](page1.md) | Manupulation & exploration
-| [4. Analyze](page1.md) | Analysis
-| [5. Share](page1.md) | Recommendations
+| [1. Ask](1_Ask.md) | Objective
+| [2. Prepare](2_Prepare.md) | Data gathering
+| [3. Process](3_Process.md) | Manupulation & exploration
+| [4. Analyze](4_Analyze.md) | Analysis
+| [5. Share](5_Share.md) | Recommendations
 
 
 

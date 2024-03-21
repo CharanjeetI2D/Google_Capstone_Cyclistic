@@ -32,7 +32,7 @@ Our analysis of the Cyclistic ridership data has revealed insights and opportuni
 * **Identify Partnership Opportunities:**  Research businesses and attractions that align with likely casual rider demographics and interests.
 
 
-# Conclusion
+## Conclusion
 - Implementing the above recommendations Cyclistic can attract Casual riders to become subscribers.
 - There can be more opportunities which can be uncovered by analysis data further in detail eg: Exploring bike preference, Areas that have higher rides etc.
 - Excluded data which has NULL values can be inspected to verify and solve several issues.
